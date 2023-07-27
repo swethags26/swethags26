@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swethags26
 - 👀 I’m interested in web development and I am interested in networking.   
-- 🌱 I’m currently learning B.E. Electronics and Communication Engineering
+- 🌱 I’m recently graduated in B.E. Electronics and Communication Engineering
 - 
 
 <!---
